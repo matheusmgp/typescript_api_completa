@@ -1,0 +1,11 @@
+npm init -y (iniciar package.json)
+
+git init(iniciar repositorio OPICIONAL)
+
+npm  i -D tsc typescript ts-node ou ts-node-dev(INSTALAR TYPESCRIPT)
+
+tsc --init(cria arquivo tsconfig)
+
+npm i -D eslint prettier eslint-config-prettier(INSTALAR PRETTIER E ESLINT)
+
+npx eslint --init(INICIAR ESLINT)
