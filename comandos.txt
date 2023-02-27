@@ -9,3 +9,10 @@ tsc --init(cria arquivo tsconfig)
 npm i -D eslint prettier eslint-config-prettier(INSTALAR PRETTIER E ESLINT)
 
 npx eslint --init(INICIAR ESLINT)
+
+npm i express
+
+npm i -D @types/express @types/node
+
+
+npm i dotenv
