@@ -15,7 +15,7 @@ export class GetUserController implements IGetUserController {
     } catch (err: any) {
       return {
         statusCode: 200,
-        body: `Something went wronng -> ${err.message}`,
+        body: `Something went wrong -> ${err.message}`,
       };
     }
   }
